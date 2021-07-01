@@ -58,7 +58,7 @@ def tarea0():
     # median rounded to 4 decimals
     # var_95 rounded to 6 decimals
     # is_normal 
-    return round(dm.median,4),round(dm.var_95,6),dm.is_normal
+    return round(dm.median,5),round(dm.var_95,6),dm.is_normal
 
 
 #NO MODIFICAR
